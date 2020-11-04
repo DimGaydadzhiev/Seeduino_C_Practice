@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dimitar/Documents/project1/test3/build",
+  "command": "avr-gcc -DBAUD=9600 -DF_CPU=16000000UL -I/home/dimitar/Documents/project1/test3/src  -g   -mmcu=atmega328p -std=gnu99 -Os -Wall -Wno-main -Wno-unused-function -Wundef -pedantic -Wstrict-prototypes -Werror -Wfatal-errors -g -gdwarf-2 -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -fno-split-wide-types -fno-tree-scev-cprop -o CMakeFiles/blinkTest.dir/src/hal.c.o   -c /home/dimitar/Documents/project1/test3/src/hal.c",
+  "file": "/home/dimitar/Documents/project1/test3/src/hal.c"
+},
+{
+  "directory": "/home/dimitar/Documents/project1/test3/build",
+  "command": "avr-gcc -DBAUD=9600 -DF_CPU=16000000UL -I/home/dimitar/Documents/project1/test3/src  -g   -mmcu=atmega328p -std=gnu99 -Os -Wall -Wno-main -Wno-unused-function -Wundef -pedantic -Wstrict-prototypes -Werror -Wfatal-errors -g -gdwarf-2 -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -fno-split-wide-types -fno-tree-scev-cprop -o CMakeFiles/blinkTest.dir/src/main.c.o   -c /home/dimitar/Documents/project1/test3/src/main.c",
+  "file": "/home/dimitar/Documents/project1/test3/src/main.c"
+}
+]

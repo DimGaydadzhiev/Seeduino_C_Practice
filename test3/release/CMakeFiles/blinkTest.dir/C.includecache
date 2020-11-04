@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dimitar/Documents/project1/test3/src/hal/hal.h
+stdbool.h
+-
+stdint.h
+-
+stdio.h
+-
+avr/interrupt.h
+-
+avr/io.h
+-
+avr/pgmspace.h
+-
+stdlib.h
+-
+util/delay.h
+-
+
+/home/dimitar/Documents/project1/test3/src/hal/i2c.h
+inttypes.h
+-
+util/twi.h
+-
+
+/home/dimitar/Documents/project1/test3/src/hal/lcd.h
+i2c.h
+/home/dimitar/Documents/project1/test3/src/hal/i2c.h
+
+/home/dimitar/Documents/project1/test3/src/main.c
+hal/i2c.h
+/home/dimitar/Documents/project1/test3/src/hal/i2c.h
+hal/hal.h
+/home/dimitar/Documents/project1/test3/src/hal/hal.h
+hal/lcd.h
+/home/dimitar/Documents/project1/test3/src/hal/lcd.h
+

@@ -1,0 +1,1 @@
+avr-gcc   -mmcu=atmega328p -Wl,--relax,--gc-sections,-Map=blinkTest.map CMakeFiles/blinkTest.dir/src/hal.c.o CMakeFiles/blinkTest.dir/src/main.c.o  -o blinkTest.elf 

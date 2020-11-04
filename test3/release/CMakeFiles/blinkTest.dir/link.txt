@@ -1,0 +1,1 @@
+avr-gcc -O3 -DNDEBUG  -mmcu=atmega328p -Wl,--relax,--gc-sections,-u,vfprintf -lprintf_flt -lm CMakeFiles/blinkTest.dir/src/hal/hal.c.o CMakeFiles/blinkTest.dir/src/hal/i2c.c.o CMakeFiles/blinkTest.dir/src/hal/lcd.c.o CMakeFiles/blinkTest.dir/src/main.c.o  -o blinkTest.elf 

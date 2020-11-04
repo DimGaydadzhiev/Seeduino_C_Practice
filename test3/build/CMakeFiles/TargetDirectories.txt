@@ -1,0 +1,11 @@
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/rebuild_cache.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/fuses.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/upload_eeprom.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/upload.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/eeprom.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/edit_cache.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/size.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/strip.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/listing.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/hex.dir
+/home/dimitar/Documents/project1/test3/build/CMakeFiles/blinkTest.dir
